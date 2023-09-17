@@ -1,0 +1,21 @@
+{
+  "name": "fluorite-theme",
+  "displayName": "💎Fluorite Theme",
+  "description": "❤ The theme for purple color lovers!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "💎Fluorite Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fluorite-color-theme.json"
+      }
+    ]
+  }
+}
