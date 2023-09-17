@@ -3,6 +3,7 @@
   "displayName": "💎Fluorite Theme",
   "description": "❤ The theme for purple color lovers!",
   "version": "0.0.8",
+  "publisher": "rnbsov",
   "repository": {
     "type": "git",
     "url": "https://github.com/Rnbsov/fluorite-theme"
@@ -13,6 +14,15 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "fluorite",
+    "rnbsov",
+    "purple",
+    "green",
+    "gem",
+    "italic",
+    "bold"
+ ],
   "contributes": {
     "themes": [
       {
