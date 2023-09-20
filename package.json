@@ -2,7 +2,8 @@
   "name": "fluorite-theme",
   "displayName": "💎Fluorite Theme",
   "description": "❤ The theme for purple color lovers!",
-  "version": "0.0.8",
+  "icon": "assets/fluorite-icon.png",
+  "version": "0.0.9",
   "publisher": "rnbsov",
   "repository": {
     "type": "git",
