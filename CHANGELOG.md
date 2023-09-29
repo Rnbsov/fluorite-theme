@@ -1,6 +1,10 @@
 # Changelog for 💎 Fluorite theme
 
-## 1.1.0 - 21.09.2023
+## 1.2.0 - 29.09.2023
+
+- ✨ Create README.md
+
+## 1.1.0 - 29.09.2023
 
 - ✨ Create changelog
 

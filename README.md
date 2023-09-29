@@ -1,16 +1,13 @@
-# fluorite-theme README
+# 💎 Fluorite Theme
 
-## Working with Markdown
+![theme_showcase](assets/theme_showcase.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 🚀 Installation
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Open the Extensions sidebar in VS Code
+- Search for `Fluorite`
+- Click Install
+- Open the Command Palette with `Ctrl+Shift+P` or `⇧⌘P`
+- Select Preferences: Color Theme and choose `Fluorite Theme`.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+> 💜 With Love by Rnbsov 👾
