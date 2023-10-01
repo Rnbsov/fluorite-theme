@@ -3,14 +3,15 @@
   "displayName": "💎Fluorite Theme",
   "description": "💜 The theme for purple color lovers! 👾",
   "icon": "assets/fluorite-icon.png",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "rnbsov",
   "repository": {
     "type": "git",
     "url": "https://github.com/Rnbsov/fluorite-theme"
- },
+  },
+  "homepage": "https://github.com/Rnbsov/fluorite-theme",
   "engines": {
-    "vscode": "^1.82.0"
+    "vscode": "^1.58.0"
   },
   "categories": [
     "Themes"
@@ -23,8 +24,13 @@
     "green",
     "gem",
     "italic",
+    "dark",
     "bold"
- ],
+  ],
+  "galleryBanner": {
+    "color": "#0d1117",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
