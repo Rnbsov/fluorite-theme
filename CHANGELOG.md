@@ -1,5 +1,9 @@
 # Changelog for 💎 Fluorite theme
 
+## 1.2.2 - 02.10.2023
+
+- ✨ Add badges to README.md
+
 ## 1.2.1 - 01.10.2023
 
 - 👾 fix incompatibility with old vscode versions
