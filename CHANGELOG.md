@@ -1,5 +1,9 @@
 # Changelog for 💎 Fluorite theme
 
+## 1.2.3 - 07.10.2023
+
+- ✨ Changed Errors/Warnings/Infos editor colors and in statusBar 
+
 ## 1.2.2 - 02.10.2023
 
 - ✨ Add badges to README.md

@@ -111,15 +111,23 @@
     "editor.foldBackground": "#221a2a",
     "editorOverviewRuler.background": "#d32a2a00",
     "editorOverviewRuler.border": "#30154300",
-    "editorError.foreground": "#f48771",
+    
+    // Errors
+    "editorError.foreground": "#FC618D",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
-    "editorWarning.foreground": "#cca700",
-    "editorWarning.background": "#A9904000",
+    "editorWarning.foreground": "#FFC26F",
+    "editorWarning.background": "#A9904000",   
     "editorWarning.border": "#ffffff00",
-    "editorInfo.foreground": "#75beff",
+
+    "editorInfo.foreground": "#25A6E8",
     "editorInfo.background": "#4490BF00",
     "editorInfo.border": "#4490BF00",
+
+    // status bar errors 
+    "statusBarItem.warningBackground": "#FFC26F",
+    "statusBarItem.errorBackground": "#FC618D",
+    
     "editorGutter.background": "#16111b",
     "editorGutter.modifiedBackground": "#2a1c36",
     "editorGutter.addedBackground": "#412b54",
