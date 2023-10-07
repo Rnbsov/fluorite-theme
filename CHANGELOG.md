@@ -1,8 +1,12 @@
 # Changelog for 💎 Fluorite theme
 
+## 1.2.4 - 07.10.2023
+
+- ✨ New CodeLens color
+
 ## 1.2.3 - 07.10.2023
 
-- ✨ Changed Errors/Warnings/Infos editor colors and in statusBar 
+- ✨ Change Errors/Warnings/Infos editor colors and in statusBar
 
 ## 1.2.2 - 02.10.2023
 
@@ -35,8 +39,6 @@
 ## 0.0.7 - 17.09.2023
 
 - 👾 Initial commit
-
-
 
 All notable changes to the "fluorite-theme" extension will be documented in this file.
 

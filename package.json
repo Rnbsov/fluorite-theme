@@ -3,7 +3,7 @@
   "displayName": "💎Fluorite Theme",
   "description": "💜 The theme for purple color lovers! 👾",
   "icon": "assets/fluorite-icon.png",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "publisher": "rnbsov",
   "repository": {
     "type": "git",
@@ -12,6 +12,9 @@
   "homepage": "https://github.com/Rnbsov/fluorite-theme",
   "engines": {
     "vscode": "^1.58.0"
+  },
+  "scripts": {
+    "publish": "vsce package && vsce publish"
   },
   "categories": [
     "Themes"

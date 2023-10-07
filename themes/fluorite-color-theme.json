@@ -133,7 +133,8 @@
     "editorGutter.addedBackground": "#412b54",
     "editorGutter.deletedBackground": "#5b3c75",
     "editorGutter.foldingControlForeground": "#412b54",
-    "editorCodeLens.foreground": "#ffb6ce",
+    // CodeLens
+    "editorCodeLens.foreground": "#aa6ac180",
     "editorGroup.border": "#19111f",
     "diffEditor.insertedTextBackground": "#2a1c36",
     "diffEditor.insertedTextBorder": "#7b282800",
