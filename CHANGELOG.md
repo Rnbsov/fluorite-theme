@@ -1,5 +1,9 @@
 # Changelog for 💎 Fluorite theme
 
+## 1.2.5 - 07.10.2023
+
+- ✨ New Lightbulb color
+
 ## 1.2.4 - 07.10.2023
 
 - ✨ New CodeLens color
