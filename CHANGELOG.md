@@ -1,5 +1,9 @@
 # Changelog for 💎 Fluorite theme
 
+## 1.2.6 - 04.11.2023
+
+- ✨ List and quickInputList background color
+
 ## 1.2.5 - 07.10.2023
 
 - ✨ New Lightbulb color
