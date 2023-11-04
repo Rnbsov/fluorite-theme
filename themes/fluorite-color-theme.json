@@ -21,9 +21,14 @@
     "sideBarSectionHeader.border": "#cccccc00",
     "sideBarTitle.foreground": "#5b3c75",
     "sideBar.border": "#19111f",
+
+    // Quick Input List
+    "quickInputList.focusBackground": "#503e6c11",
+
+    // List
     "list.inactiveSelectionBackground": "#19191942",
     "list.inactiveSelectionForeground": "#885cad",
-    "list.hoverBackground": "#00000000",
+    "list.hoverBackground": "#503e6c11",
     "list.hoverForeground": "#885cad",
     "list.activeSelectionBackground": "#00000000",
     "list.activeSelectionForeground": "#885cad",
@@ -35,6 +40,7 @@
     "listFilterWidget.background": "#19111f",
     "listFilterWidget.outline": "#46295a91",
     "listFilterWidget.noMatchesOutline": "#75757538",
+
     "statusBar.foreground": "#412b54",
     "statusBar.background": "#120c17",
     "statusBarItem.hoverBackground": "#ffffff00",
